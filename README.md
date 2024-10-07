@@ -21,13 +21,12 @@ This is an interactive C++ console-based adventure game where players make choic
 2. Navigate to the project directory:<br>
    ```cd ChooseYourOwnAdventureGame```
 3. Build the program:<br>
-   Option 1: Using g++<br>
-   ```g++ main.cpp Character.cpp Choices.cpp CurrentStage.cpp Enemy.cpp Menu.cpp Player.cpp Scenario.cpp -o AdventureGame```<br>
-   Option 2: Using CMake<br>
-   ```mkdir build
+   ```
+      mkdir build
       cd build
       cmake ..
-      make```
+      make
+   ```
 4. Run the game:<br>
    ```./*(executable file)*```
 
