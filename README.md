@@ -11,11 +11,11 @@ This is an interactive C++ console-based adventure game where players make choic
 •**Save and Resume Game Progress**: Players can save their progress and resume from where they left off using a simple save/load system.<br>
 
 ### How to Run
-**Requirements**<br>
+#### Requirements
 • A C++ compiler such as g++ or clang++<br>
 • CMake (optional for build automation)
 
-**Instructions**
+#### Instructions
 1. Clone the repository:<br>
    ```https://github.com/mthMay/ChooseYourOwnAdventureGame.git```
 2. Navigate to the project directory:<br>
