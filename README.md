@@ -17,7 +17,7 @@ This is an interactive C++ console-based adventure game where players make choic
 
 #### Instructions
 1. Clone the repository:<br>
-   ```https://github.com/mthMay/ChooseYourOwnAdventureGame.git```
+   ```git clone https://github.com/mthMay/ChooseYourOwnAdventureGame.git```
 2. Navigate to the project directory:<br>
    ```cd ChooseYourOwnAdventureGame```
 3. Build the program:<br>
