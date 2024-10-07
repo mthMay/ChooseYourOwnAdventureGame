@@ -11,8 +11,8 @@ This is an interactive C++ console-based adventure game where players make choic
 •**Save and Resume Game Progress**: Players can save their progress and resume from where they left off using a simple save/load system.<br>
 
 ### How to Run
-**Requirements**
-• A C++ compiler such as g++ or clang++
+**Requirements**<br>
+• A C++ compiler such as g++ or clang++<br>
 • CMake (optional for build automation)
 
 **Instructions**
